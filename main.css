@@ -9,7 +9,7 @@ C8B6E2 accent */
   height: 600px;
   background-color: #495c83;
   /* padding: 1px; */
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 .frame{
   border: 50px solid black;
@@ -27,5 +27,11 @@ C8B6E2 accent */
   background-color: #C8B6E2;
   width: 475px;
   height: 200px;
+  margin: auto;
+}
+.three{
+  width: 91%;
+  height: 28%;
+  background-color: #584f66;
   margin: auto;
 }
