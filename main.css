@@ -1,4 +1,11 @@
+/* 
+495C83 primary
+7A86B6 secondary
+A8A4CE accent
+C8B6E2 accent */
+
 .canvas{
   width: 500px;
   height: 600px;
+  background-color: #495c83;
 }
