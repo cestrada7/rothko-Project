@@ -8,7 +8,8 @@ C8B6E2 accent */
   width: 500px;
   height: 600px;
   background-color: #495c83;
-  padding: 1px;
+  /* padding: 1px; */
+  overflow: hidden;
 }
 .frame{
   border: 50px solid black;
