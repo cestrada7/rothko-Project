@@ -9,3 +9,9 @@ C8B6E2 accent */
   height: 600px;
   background-color: #495c83;
 }
+.frame{
+  border: 50px solid black;
+  width: 500px;
+  padding: 50px;
+  margin: 20px auto;
+}
