@@ -24,6 +24,7 @@ C8B6E2 accent */
   background-color: #7A86B6;
   margin: 20px auto;
   filter: blur(1px);
+  box-shadow: 3px 3px #7A86B6;
 }
 .two{
   background-color: #C8B6E2;
@@ -31,12 +32,13 @@ C8B6E2 accent */
   height: 200px;
   margin: 0 auto 20px ;
   filter: blur(1px);
-
+  box-shadow: 3px 3px #C8B6E2;
 }
 .three{
   width: 91%;
-  height: 27%;
+  height: 25%;
   background-color: #584f66;
   margin: auto;
   filter: blur(2px);
+  box-shadow: 5px 5px #584f66;
 }
