@@ -26,6 +26,7 @@ C8B6E2 accent */
   filter: blur(1px);
   box-shadow: 3px 3px #7A86B6;
   border-radius: 9px;
+  transform: rotate(.6deg);
 }
 .two{
   background-color: #C8B6E2;
@@ -35,6 +36,7 @@ C8B6E2 accent */
   filter: blur(1px);
   box-shadow: 3px 3px #C8B6E2;
   border-radius: 8px 10px;
+  transform: rotate(4.03deg);
 }
 .three{
   width: 91%;
@@ -44,4 +46,5 @@ C8B6E2 accent */
   filter: blur(2px);
   box-shadow: 5px 5px #584f66;
   border-radius: 30px 25px 60px 12px;
+  transform: rotate(-0.2deg);
 }
