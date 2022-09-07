@@ -10,6 +10,7 @@ C8B6E2 accent */
   background-color: #495c83;
   /* padding: 1px; */
   /* overflow: hidden; */
+  filter: blur(2px);
 }
 .frame{
   border: 50px solid black;
@@ -32,7 +33,7 @@ C8B6E2 accent */
 }
 .three{
   width: 91%;
-  height: 28%;
+  height: 27%;
   background-color: #584f66;
   margin: auto;
 }
